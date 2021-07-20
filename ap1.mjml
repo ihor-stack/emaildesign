@@ -1,0 +1,186 @@
+<mjml>
+	<mj-head>
+		<mj-title>KneeFlex-After Purchase 1</mj-title>
+		<mj-preview>KneeFlex-After Purchase 1</mj-preview>
+		<mj-style>
+			img { max-width: 100%; height: auto; } .box-shadow {box-shadow: 0px 0px 16px #00000033;} @media only screen and (min-width: 680px) { .main-btn,.merge-btn { font-size: 37.4px; } .h1 {font-size:
+			69px;line-height: 70px;} .subtitle {font-size: 33px;line-height: 45px;} .subtext {font-size: 25px !important;} .title-xl {font-size: 100px !important;} } @media only screen and (max-width:
+			680px) { p:not([class]),li {font-size: 25px !important;line-height: 33px !important;} .benefits-heading { font-size: 55px !important; } .benefits-title { font-size: 28px !important; } h2 {
+			font-size: 35px !important; } } @media only screen and (max-width: 480px) { .hide-mobile { display: none !important; overflow:hidden; mso-hide:all; margin:0; font-size:0 !important; max-height:0
+			!important; } }
+		</mj-style>
+	</mj-head>
+	<mj-body width="1000px">
+		<mj-section background-color="#ffffff" padding="0">
+			<mj-column width="400px" padding="5px 0">
+				<mj-image src="https://d3k81ch9hvuctc.cloudfront.net/company/QLL9Uz/images/09ceda55-37f6-422d-80ef-55e0c89c8e56.png" alt="" />
+			</mj-column>
+		</mj-section>
+		<mj-section
+			padding="67.5px 20px 0"
+			background-url="https://user-images.githubusercontent.com/57404943/126197020-b1401c9c-9d53-412d-8b5b-60642d85865f.png"
+			background-size="100% 717px"
+			background-repeat="no-repeat"
+			background-color="#ffffff"
+		>
+			<mj-column padding="0" width="76%">
+				<mj-text padding="0px" color="#21A9E1" font-family="Open Sans" align="center" font-size="40px" line-height="50px" font-weight="900" css-class="main-title">
+					<div class="h1">New Arrival: PureSole Insoles</div></mj-text
+				>
+				<mj-text align="center" color="#000000" font-family="Open Sans" font-size="25px" line-height="33px" padding-top="6px">
+					<div class="subtitle">Subtle foot support for all-day comfort.</div>
+				</mj-text>
+				<mj-button
+					href="{{event.extra.checkout_url}}"
+					align="center"
+					background-color="#47B95F"
+					border-radius="5px"
+					font-family="Open Sans"
+					font-size="20px"
+					inner-padding="14px 64px 19px"
+					padding="30px 0 0"
+					line-height="1"
+					font-weight="bold"
+					><div class="main-btn">BUY NOW</div></mj-button
+				>
+				<mj-image src="https://user-images.githubusercontent.com/57404943/126314652-9f83647c-b80a-4581-b925-9934418d5d01.png" align="center" padding="50px 0 0" alt="KneeFlex men image" />
+				<mj-text padding="30px 25px 35px" align="center" font-family="Myriad Pro">
+					<p style="font-size: 37px; line-height: 45px; margin: 0; font-weight: bold">Hey {{ first_name|default:'there' }},</p>
+					<p style="font-size: 37px; line-height: 45px; padding-top: 30px; margin: 0">
+						You’re about to leap into a new era of comfort, and we’re delighted to be your trusted partner in knee support & pain reduction.
+					</p>
+					<p style="font-size: 37px; line-height: 45px; padding-top: 30px; margin: 0">
+						Now that you’re on your way to happier knees, we’ve got an exclusive one-time offer for insoles that’ll have you walking on clouds:
+					</p>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section background-color="#ffffff" padding="20px">
+			<mj-column padding="0" width="80%">
+				<mj-image src="https://user-images.githubusercontent.com/57404943/126316040-715c7e7b-9f8c-429b-9645-345710155075.png" padding="0" alt="" />
+				<mj-text padding="60px 0 0">
+					<h2 class="title" style="margin: 0; padding: 0; text-align: center; font-size: 60px">PureSole Insoles</h2>
+					<p style="font-size: 37px; line-height: 45px; padding-top: 30px; margin: 0">Make your shoes feel better than new with insoles designed for immediate & long-lasting comfort.</p>
+					<p style="font-size: 37px; line-height: 45px; padding-top: 30px; margin: 0">Perfect for:</p>
+					<p style="font-size: 37px; line-height: 45px; padding-top: 30px; margin: 0">1. Blister & irritation prevention</p>
+					<p style="font-size: 37px; line-height: 45px; padding: 0; margin: 0">2. Posture & arch support</p>
+					<p style="font-size: 37px; line-height: 45px; padding: 0; 30px; margin: 0">3. Muscle fatigue reduction</p>
+					<p style="font-size: 37px; line-height: 45px; padding: 0; 30px; margin: 0">4. Foot realignment</p>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section background-color="#ffffff" padding="40px 20px 0">
+			<mj-column padding="0">
+				<mj-button
+					href="{{event.extra.checkout_url}}"
+					font-family="Open Sans"
+					align="center"
+					background-color="#47B95F"
+					border-radius="5px"
+					font-size="20px"
+					inner-padding="14px 64px 19px"
+					padding="0"
+					font-weight="bold"
+					line-height="1"
+					><div class="main-btn">BUY NOW</div>
+				</mj-button>
+			</mj-column>
+		</mj-section>
+		<mj-section background-color="#fff" padding="74px 20px 55px">
+			<mj-column padding="0" width="80%" background-color="#1A1A1A" border-radius="10px">
+				<mj-text color="#fff" padding="43px 20px 0" align="center" font-family="Open Sans" background-color="#1A1A1A">
+					<h2 style="font-size: 83px; color: #21a8e0; font-weight: 900; margin: 0" class="benefits-heading">100%</h2>
+					<h3 style="font-size: 45.8px; color: #21a8e0; font-weight: 900; margin: 0; padding-top: 20px" class="benefits-title">SATISFACTION</h3>
+					<p style="font-size: 37.5px; color: #fff; margin: 0; font-style: italic; padding-top: 15px">“Would buy again”</p>
+				</mj-text>
+				<mj-divider border-width="3px" border-color="#535353" padding="33px 20px 0" />
+				<mj-text color="#fff" padding="43px 20px 0" align="center" font-family="Open Sans" background-color="#1A1A1A">
+					<h2 style="font-size: 83px; color: #21a8e0; font-weight: 900; margin: 0" class="benefits-heading">97%</h2>
+					<h3 style="font-size: 45.8px; color: #21a8e0; font-weight: 900; margin: 0; padding-top: 20px" class="benefits-title">APPROVAL</h3>
+					<p style="font-size: 37.5px; color: #fff; margin: 0; font-style: italic; padding-top: 15px">“Would recommend to a friend”</p>
+				</mj-text>
+				<mj-divider border-width="3px" border-color="#535353" padding="33px 20px 0" />
+				<mj-text color="#fff" padding="43px 20px 48px" align="center" font-family="Open Sans" background-color="#1A1A1A">
+					<img src="https://user-images.githubusercontent.com/57404943/126197195-586cf29e-c8a4-4d34-aba8-4fca33a1e585.png" alt="5 star rating" />
+					<h3 style="font-size: 45.8px; color: #21a8e0; font-weight: 900; margin: 0; padding-top: 20px" class="benefits-title">4.9 / 5</h3>
+					<p style="font-size: 37.5px; color: #fff; margin: 0; font-style: italic; padding-top: 15px">Overall Rating</p>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section
+			background-url="https://user-images.githubusercontent.com/57404943/126197020-b1401c9c-9d53-412d-8b5b-60642d85865f.png"
+			background-size="cover"
+			background-repeat="no-repeat"
+			background-color="#ffffff"
+			padding="68px 20px 0"
+		>
+			<mj-column padding="0" width="80%">
+				<mj-text padding="0" align="center" font-family="Open Sans" color="#21a8e0" font-size="50px" font-weight="bold"
+					><h2 style="margin: 0; padding: 0; font-size: 50px">Risk-Free Pain Relief</h2></mj-text
+				>
+				<mj-text padding="15px 0 60px" align="center" font-family="Myriad Pro" font-size="37px" line-height="45px" color="#000000"
+					><p style="margin: 0; padding: 0; font-size: 37px">Every purchase includes a 30-day money-back guarantee.</p></mj-text
+				>
+			</mj-column>
+		</mj-section>
+
+		<mj-wrapper padding="65px 40px 16px" background-color="#ffffff">
+			<mj-section
+				background-url="https://user-images.githubusercontent.com/57404943/126197020-b1401c9c-9d53-412d-8b5b-60642d85865f.png"
+				background-size="cover"
+				background-repeat="no-repeat"
+				background-color="#ffffff"
+				padding="0"
+				css-class="box-shadow"
+			>
+				<mj-column padding="20px 30px" width="45%" vertical-align="middle">
+					<mj-text padding="0" font-family="Open Sans" color="#000000" font-size="45px">
+						<p style="margin: 0; padding: 0">Use code:</p>
+						<p style="margin: 0; padding: 10px 0; font-weight: bold; color: #21a9e1; font-size: 60px">FREE15</p>
+						<p style="margin: 0; padding: 0">for <b>15% off</b></p>
+						<p class="subtext" style="margin: 0; padding: 15px 00; font-size: 16px">** Code valid for 48 hours only</p>
+					</mj-text>
+				</mj-column>
+				<mj-column padding="0" width="55%" vertical-align="middle" css-class="hide-mobile">
+					<mj-image src="https://user-images.githubusercontent.com/57404943/126313694-feda465c-1699-425d-b630-49684afbddf3.png" padding="0 20px 0 0" alt="" />
+				</mj-column>
+			</mj-section>
+		</mj-wrapper>
+
+		<mj-section background-color="#ffffff" padding="50px 20px 60px">
+			<mj-column padding="0" width="80%">
+				<mj-button
+					href="{{event.extra.checkout_url}}"
+					font-family="Open Sans"
+					align="center"
+					background-color="#47B95F"
+					border-radius="5px"
+					font-size="20px"
+					inner-padding="14px 35px 19px"
+					padding="20px 0 70px"
+					font-weight="bold"
+					line-height="1"
+				>
+					<div class="main-btn">COMPLETE YOUR ORDER</div>
+				</mj-button>
+				<mj-image src="https://user-images.githubusercontent.com/57404943/126324025-8da5a737-386e-4291-92bc-fdb884b713aa.png" width="158px" height="158px" alt="Question icon" padding="0" />
+				<mj-text font-family="Myriad Pro" font-size="37.5px" line-height="45px" color="#000000" align="center" padding="37px 0 0">
+					<p style="margin: 0; color: #000000">
+						If you have any questions, please don’t hesitate to <a href="" style="font-weight: bold; margin: 0; padding: 0; color: #000000">get in touch</a> with our knowledgeable staff. We’re also
+						available
+					</p>
+					<p style="margin: 0; color: #21a9e1; padding: 10px 0 0">Mon - Fri at +18554401236.</p>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section background-color="#676767" padding="69px 20px 80px">
+			<mj-column padding="0" width="80%">
+				<mj-text font-family="Open Sans" font-size="58px" line-height="45px" color="#ffffff" font-weight="bold" align="center" padding="37px 0 0">
+					<h2 style="margin: 0; padding: 0; font-size: 58px">—KneeFlex</h2>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+	</mj-body>
+</mjml>

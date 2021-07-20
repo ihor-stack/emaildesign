@@ -1,0 +1,171 @@
+<mjml>
+	<mj-head>
+		<mj-title>KneeFlex-After Purchase 3</mj-title>
+		<mj-preview>KneeFlex-After Purchase 3</mj-preview>
+		<mj-style>
+			img { max-width: 100%; height: auto; } .box-shadow {box-shadow: 0px 0px 16px #00000033;} @media only screen and (min-width: 680px) { .main-btn,.merge-btn { font-size: 37.4px; } .h1 {font-size:
+			69px;line-height: 70px;} .subtitle {font-size: 33px;line-height: 45px;} .subtext {font-size: 25px !important;} .title-xl {font-size: 100px !important;} } @media only screen and (max-width:
+			680px) { p:not([class]),li {font-size: 25px !important;line-height: 33px !important;} .benefits-heading { font-size: 55px !important; } .benefits-title { font-size: 28px !important; } h2 {
+			font-size: 35px !important; } h3 {font-size: 25px !important;} } @media only screen and (max-width: 480px) { .hide-mobile { display: none !important; overflow:hidden; mso-hide:all; margin:0;
+			font-size:0 !important; max-height:0 !important; } }
+		</mj-style>
+	</mj-head>
+	<mj-body width="1000px">
+		<mj-section background-color="#ffffff" padding="0">
+			<mj-column width="400px" padding="5px 0">
+				<mj-image src="https://d3k81ch9hvuctc.cloudfront.net/company/QLL9Uz/images/09ceda55-37f6-422d-80ef-55e0c89c8e56.png" alt="" />
+			</mj-column>
+		</mj-section>
+		<mj-section
+			padding="67.5px 20px 0"
+			background-url="https://user-images.githubusercontent.com/57404943/126197020-b1401c9c-9d53-412d-8b5b-60642d85865f.png"
+			background-size="100% 717px"
+			background-repeat="no-repeat"
+			background-color="#ffffff"
+		>
+			<mj-column padding="0" width="80%">
+				<mj-text padding="0px" color="#21A9E1" font-family="Open Sans" align="center" font-size="40px" line-height="50px" font-weight="900" css-class="main-title">
+					<div class="h1">The Wellness Watch</div></mj-text
+				>
+				<mj-text align="center" color="#000000" font-family="Open Sans" font-size="25px" line-height="33px" padding-top="6px">
+					<div class="subtitle">Wear your health on your sleeve Tracker + health + smart features</div>
+				</mj-text>
+				<mj-button
+					href="{{event.extra.checkout_url}}"
+					align="center"
+					background-color="#47B95F"
+					border-radius="5px"
+					font-family="Open Sans"
+					font-size="20px"
+					inner-padding="14px 64px 19px"
+					padding="30px 0 0"
+					line-height="1"
+					font-weight="bold"
+					><div class="main-btn">BUY NOW</div></mj-button
+				>
+				<mj-image src="https://user-images.githubusercontent.com/57404943/126320183-144bf0f8-79b5-46cc-985d-77b0b55aee73.png" align="center" padding="50px 0 0" alt="KneeFlex men image" />
+				<mj-text padding="30px 25px 35px" align="center" font-family="Myriad Pro">
+					<p style="font-size: 37px; line-height: 45px; margin: 0; font-weight: bold">Hey {{ first_name|default:'there' }},</p>
+					<p style="font-size: 37px; line-height: 45px; padding-top: 30px; margin: 0">It’s a cliché, but time truly is the most valuable resource in the universe.</p>
+					<p style="font-size: 37px; line-height: 45px; padding-top: 30px; margin: 0">
+						Countless millions have been spent on life (or time) extension R&D, but still, the simplest and most effective thing we can do as individuals is to just look after our health day by day.
+					</p>
+					<p style="font-size: 37px; line-height: 45px; padding-top: 30px; margin: 0">To get those 10,000 steps. To get the full night’s rest.</p>
+					<p style="font-size: 37px; line-height: 45px; padding-top: 30px; margin: 0">
+						The Wellness Watch helps you make sure you’re meeting your health & fitness goals so you can live the fullest & longest life possible.
+					</p>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section background-color="#ffffff" padding="20px">
+			<mj-column padding="0" width="80%">
+				<mj-image src="https://user-images.githubusercontent.com/57404943/126320164-8fa40907-52b1-46fd-a118-520f20836941.png" padding="0" alt="" />
+				<mj-text padding="60px 0 0">
+					<h2 class="title" style="margin: 0; padding: 0; text-align: center; font-size: 60px">The Wellness Watch</h2>
+
+					<p style="font-size: 37px; line-height: 45px; padding-top: 30px; margin: 0">1. Unisex design</p>
+					<p style="font-size: 37px; line-height: 45px; padding: 0; margin: 0">2. Activity tracking (walking, running, cycling, etc.)</p>
+					<p style="font-size: 37px; line-height: 45px; padding: 0; 30px; margin: 0">3. 24/7 health monitoring (heart rate, calories burnt, etc.)</p>
+					<p style="font-size: 37px; line-height: 45px; padding: 0; 30px; margin: 0">4. Advanced time features</p>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section background-color="#ffffff" padding="40px 20px 0">
+			<mj-column padding="0">
+				<mj-button
+					href="{{event.extra.checkout_url}}"
+					font-family="Open Sans"
+					align="center"
+					background-color="#47B95F"
+					border-radius="5px"
+					font-size="20px"
+					inner-padding="14px 64px 19px"
+					padding="0"
+					font-weight="bold"
+					line-height="1"
+					><div class="main-btn">BUY NOW</div>
+				</mj-button>
+			</mj-column>
+		</mj-section>
+		<mj-section background-color="#ffffff" padding="70px 0 50px">
+			<mj-column width="50%" padding="0" vertical-align="middle">
+				<mj-image src="https://user-images.githubusercontent.com/57404943/126320177-4ff9f162-99d0-4408-a26d-2549bac12b9e.png" alt=""
+			/></mj-column>
+			<mj-column width="50%" padding="0 20px" vertical-align="middle">
+				<mj-text>
+					<h3 style="margin: 0; padding: 0; font-size: 40px">
+						<img src="https://user-images.githubusercontent.com/57404943/126321850-fac11c98-4aa4-4e74-811d-f03814f3d79d.png" width="35" />
+						Waterproof
+					</h3>
+					<p style="font-size: 37px; line-height: 45px; padding-top: 10px; margin: 0">An IP68 rating makes heat, sweat, and water no big deal.</p>
+				</mj-text>
+				<mj-text padding-top="20px">
+					<h3 style="margin: 0; padding: 0; font-size: 40px">
+						<img src="https://user-images.githubusercontent.com/57404943/126321850-fac11c98-4aa4-4e74-811d-f03814f3d79d.png" width="35" />
+						Powerful Battery
+					</h3>
+					<p style="font-size: 37px; line-height: 45px; padding-top: 10px; margin: 0">Enjoy over 3 days of intense use.</p>
+				</mj-text>
+				<mj-text padding-top="20px">
+					<h3 style="margin: 0; padding: 0; font-size: 40px">
+						<img src="https://user-images.githubusercontent.com/57404943/126321850-fac11c98-4aa4-4e74-811d-f03814f3d79d.png" width="35" />
+						Sleek & Stylish Design
+					</h3>
+					<p style="font-size: 37px; line-height: 45px; padding-top: 10px; margin: 0">A smooth 1.4” LCD touch display creates an intuitive experience.</p>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<mj-section
+			background-url="https://user-images.githubusercontent.com/57404943/126197020-b1401c9c-9d53-412d-8b5b-60642d85865f.png"
+			background-size="cover"
+			background-repeat="no-repeat"
+			background-color="#ffffff"
+			padding="68px 20px 0"
+		>
+			<mj-column padding="0" width="80%">
+				<mj-text padding="0" align="center" font-family="Open Sans" color="#21a8e0" font-size="50px" font-weight="bold"
+					><h2 style="margin: 0; padding: 0; font-size: 50px">Zero Risk. 100% Satisfaction.</h2></mj-text
+				>
+				<mj-text padding="15px 0 0" align="center" font-family="Myriad Pro" font-size="37px" line-height="45px" color="#000000"
+					><p style="margin: 0; padding: 0; font-size: 37px">Every purchase includes a 30-day money-back guarantee.</p></mj-text
+				>
+				<mj-button
+					href="{{event.extra.checkout_url}}"
+					font-family="Open Sans"
+					align="center"
+					background-color="#47B95F"
+					border-radius="5px"
+					font-size="20px"
+					inner-padding="14px 70px 19px"
+					padding="40px 0 60px"
+					font-weight="bold"
+					line-height="1"
+				>
+					<div class="main-btn">BUY NOW</div>
+				</mj-button>
+			</mj-column>
+		</mj-section>
+
+		<mj-section background-color="#ffffff" padding="70px 20px 60px">
+			<mj-column padding="0" width="80%">
+				<mj-image src="https://user-images.githubusercontent.com/57404943/126324025-8da5a737-386e-4291-92bc-fdb884b713aa.png" width="158px" height="158px" alt="Question icon" padding="0" />
+				<mj-text font-family="Myriad Pro" font-size="37.5px" line-height="45px" color="#000000" align="center" padding="37px 0 0">
+					<p style="margin: 0; color: #000000">
+						If you have any questions, please don’t hesitate to <a href="" style="font-weight: bold; margin: 0; padding: 0; color: #000000">get in touch</a> with our knowledgeable staff. We’re also
+						available
+					</p>
+					<p style="margin: 0; color: #21a9e1; padding: 10px 0 0">Mon - Fri at +18554401236.</p>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		<mj-section background-color="#676767" padding="69px 20px 80px">
+			<mj-column padding="0" width="80%">
+				<mj-text font-family="Open Sans" font-size="58px" line-height="45px" color="#ffffff" font-weight="bold" align="center" padding="37px 0 0">
+					<h2 style="margin: 0; padding: 0; font-size: 58px">—KneeFlex</h2>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+	</mj-body>
+</mjml>
